@@ -6,7 +6,7 @@ richtofenum is a comprehensive subdomain enumeration tool that combines multiple
 
 ## Author
 
-- Nickname: 0xRichtofen
+- 0xRichtofen
 
 ## Features
 
